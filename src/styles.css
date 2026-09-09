@@ -1,0 +1,19 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.idTitulo {
+  font-size: 30px;
+  color: blue;
+}
+
+.classTitulo {
+  font-size: 50px;
+  color: green;
+}
+
+input,
+p-select,
+button {
+  width: 100% !important;
+}
